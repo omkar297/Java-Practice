@@ -1,3 +1,0 @@
-class pattern2 {
-    
-}
